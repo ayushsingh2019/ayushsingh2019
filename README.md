@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ayushsingh2019/ayushsingh2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### I am Ayush Singh 
+
+- 🔭 I’m currently studying in VIT(Vellore Institute of Technology), Vellore
+- 🌱 I’m currently in my 4th year 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
