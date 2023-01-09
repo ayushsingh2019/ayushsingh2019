@@ -13,6 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
+<br>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh2019&show_icons=true&theme=great-gatsby" alt="ayushsingh2019" />
+</br>
+</br>
