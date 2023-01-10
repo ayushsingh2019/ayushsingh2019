@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align=right width="300"  src="https://github.com/ayushsingh2019/ayushsingh2019/blob/main/UGnn6nrJCYvHxEycE1E-awIO_FVB4tlFZOJ95JDf7Uo.jpg">
+<img align=right width="400"  src="https://github.com/ayushsingh2019/ayushsingh2019/blob/main/UGnn6nrJCYvHxEycE1E-awIO_FVB4tlFZOJ95JDf7Uo.jpg">
 
 ### I am Ayush Singh 
 
