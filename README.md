@@ -4,17 +4,12 @@
 
 ### I am Ayush Singh 
 
+
 - 🔭 I’m currently studying in VIT(Vellore Institute of Technology), Vellore
 - 🌱 I’m currently in my 4th year 
 - 📫 Contact me on...
 
 
-
-
-
-
-
-
-<br><br><br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh2019&show_icons=true&theme=great-gatsby" alt="ayushsingh2019" />
-</br></br></br>
+<br><br><br><br><br><br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh2019&show_icons=true&theme=great-gatsby" alt="ayushsingh2019"/>
+</br>
