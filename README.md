@@ -6,16 +6,15 @@
 
 - 🔭 I’m currently studying in VIT(Vellore Institute of Technology), Vellore
 - 🌱 I’m currently in my 4th year 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
-<br>
+- 📫 Contact me on...
 
+
+
+
+
+
+
+
+<br><br><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh2019&show_icons=true&theme=great-gatsby" alt="ayushsingh2019" />
-</br>
-</br>
+</br></br></br>
