@@ -11,5 +11,5 @@
 
 
 <br><br><br><br><br><br>
-<p align="left"> <img align=right width="500" src="https://github-readme-stats.vercel.app/api?username=ayushsingh2019&show_icons=true&theme=great-gatsby" alt="ayushsingh2019"/>
+<p align="left"> <img align=right width="450" src="https://github-readme-stats.vercel.app/api?username=ayushsingh2019&show_icons=true&theme=great-gatsby" alt="ayushsingh2019"/>
 </br>
