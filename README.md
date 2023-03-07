@@ -5,8 +5,8 @@
 ### I am Ayush Singh 
 
 
-- 🔭 I’m currently studying in VIT(Vellore Institute of Technology), Vellore
-- 🌱 I’m currently in my 4th year 
+- 🔭 currently studying in VIT(Vellore Institute of Technology), Vellore
+- 🌱 in my 4th year 
 - 📫 Contact me on...
 
 
