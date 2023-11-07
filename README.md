@@ -5,9 +5,9 @@
 ### I am Ayush Singh 
 
 
-- 🔭 currently studying in VIT(Vellore Institute of Technology), Vellore
-- 🌱 in my 4th year 
-- 📫 Contact me on...
+- 🔭 Graduated from VIT(Vellore Institute of Technology), Vellore
+- 🌱 Working at CORIZO
+- 📫 Contact me on...ayushsingh29874@gmail.com
 
 
 <br><br><br><br><br><br>
